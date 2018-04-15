@@ -3,19 +3,22 @@
         {
             "id_pueblo":"1",
             "nombre": "Orizaba",
-            "descripcion":"Orizaba (en náhuatl: Ahuilizapan, Ahauializapan Lugar de aguas alegres) es una ciudad mexicana ubicado en el centro geográfico del Estado de Veracruz, en la región de las altas montañas. Junto con otros municipios aledaños  forma la cuarta área metropolitana más poblada del estado. Es conocida también como la Ciudad de las Aguas Alegres por su origen náhuatl y también como Pluviosill como la llamó poéticamente el escritor Rafael Delgado en algunas de sus obras"
+            "descripcion":"Orizaba (en náhuatl: Ahuilizapan, Ahauializapan Lugar de aguas alegres) es una ciudad mexicana ubicado en el centro geográfico del Estado de Veracruz, en la región de las altas montañas. Junto con otros municipios aledaños  forma la cuarta área metropolitana más poblada del estado. Es conocida también como la Ciudad de las Aguas Alegres por su origen náhuatl y también como Pluviosill como la llamó poéticamente el escritor Rafael Delgado en algunas de sus obras",
+            "ruta_imagen":"https://github.com/jarredd/platillo/blob/master/orizaba-2.jpg"
             
         },
         {
             "id_pueblo":"2",
             "nombre": "Coatepec",
-            "descripcion": "Coatepec  es una ciudad localizada en el centro estado de Veracruz, México. A ocho kilómetros de Xalapa,se encuentra Coatepec, que por décadas fue por excelencia la ciudad del café en el país. Con su antiguo casco urbano, en alguna medida aún conservado, muestra la gran bonanza que vivió la población a partir de los exportaciones del producto en los principios del siglo XX, época en la que los precios del café estaban al alza."
+            "descripcion": "Coatepec  es una ciudad localizada en el centro estado de Veracruz, México. A ocho kilómetros de Xalapa,se encuentra Coatepec, que por décadas fue por excelencia la ciudad del café en el país. Con su antiguo casco urbano, en alguna medida aún conservado, muestra la gran bonanza que vivió la población a partir de los exportaciones del producto en los principios del siglo XX, época en la que los precios del café estaban al alza.",
+            "ruta_imagen": "https://github.com/jarredd/platillo/blob/master/couatepec.jpg"
           
         },
         {
             "id_pueblo":"3",
             "nombre" :"Coscomatepec",
-            "descripcion": "Coscomatepec, es un pueblo localizado en la zona montañosa central del estado de Veracruz o región de las Altas Montañas, centro agrícola y comercial de los munipios vecinos, junto con la vecina ciudad de Huatusco de Chicuellar. Nombrado Pueblo Mágico el 25 de septiembre de 2015 en la feria nacional de Pueblos Mágicos en la ciudad de Puebla"
+            "descripcion": "Coscomatepec, es un pueblo localizado en la zona montañosa central del estado de Veracruz o región de las Altas Montañas, centro agrícola y comercial de los munipios vecinos, junto con la vecina ciudad de Huatusco de Chicuellar. Nombrado Pueblo Mágico el 25 de septiembre de 2015 en la feria nacional de Pueblos Mágicos en la ciudad de Puebla",
+            "ruta_imagen": "https://github.com/jarredd/platillo/blob/master/cosco.jpg"
           
         }
     ]
