@@ -22,13 +22,7 @@
              "imagen":"https://raw.githubusercontent.com/jarredd/platillo/master/panbazo.jpg"
             
             
-        },
-          
-        {
-            "id_pueblo":"4",
-             "nombre": "Dulce de chayote",
-            "descripcion": "Coatepec  es una ciudad localizada en el centro estado de Veracruz, México. A ocho kilómetros de Xalapa,se encuentra Coatepec, que por décadas fue por excelencia la ciudad del café en el país. Con su antiguo casco urbano, en alguna medida aún conservado, muestra la gran bonanza que vivió la población a partir de los exportaciones del producto en los principios del siglo XX, época en la que los precios del café estaban al alza.",
-             "imagen":"https://raw.githubusercontent.com/jarredd/platillo/master/chayote.jpg"   
+        }  
                 
             
             
