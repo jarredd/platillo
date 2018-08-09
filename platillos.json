@@ -3,7 +3,7 @@
             "id_pueblo":"1",
              "nombre": "Chileaatole con chito",
             "descripcion":"Orizaba (en náhuatl: Ahuilizapan, Ahauializapan Lugar de aguas alegres) es una ciudad mexicana ubicado en el centro geográfico del Estado de Veracruz, en la región de las altas montañas. Junto con otros municipios aledaños  forma la cuarta área metropolitana más poblada del estado. Es conocida también como la Ciudad de las Aguas Alegres por su origen náhuatl y también como Pluviosill como la llamó poéticamente el escritor Rafael Delgado en algunas de sus obras",
-             "imagen":"https://raw.githubusercontent.com/jarredd/platillo/master/chileatole.jpg"
+             "imagen":"https://raw.githubusercontent.com/jarredd/platillo/master/Chiletole.jpg"
             
             
         },
@@ -11,13 +11,13 @@
             "id_pueblo":"2",
              "nombre": "Memelas ",
             "descripcion":"Orizaba (en náhuatl: Ahuilizapan, Ahauializapan Lugar de aguas alegres) es una ciudad mexicana ubicado en el centro geográfico del Estado de Veracruz, en la región de las altas montañas. Junto con otros municipios aledaños  forma la cuarta área metropolitana más poblada del estado. Es conocida también como la Ciudad de las Aguas Alegres por su origen náhuatl y también como Pluviosill como la llamó poéticamente el escritor Rafael Delgado en algunas de sus obras",
-             "imagen":"https://raw.githubusercontent.com/jarredd/platillo/master/memelas.jpg"
+             "imagen":"https://raw.githubusercontent.com/jarredd/platillo/master/IMG-20180804-WA0005.jpg"
             
             
         },
           {
             "id_pueblo":"3",
-             "nombre": "pambazo",
+             "nombre": "Pambazo",
             "descripcion":"Orizaba (en náhuatl: Ahuilizapan, Ahauializapan Lugar de aguas alegres) es una ciudad mexicana ubicado en el centro geográfico del Estado de Veracruz, en la región de las altas montañas. Junto con otros municipios aledaños  forma la cuarta área metropolitana más poblada del estado. Es conocida también como la Ciudad de las Aguas Alegres por su origen náhuatl y también como Pluviosill como la llamó poéticamente el escritor Rafael Delgado en algunas de sus obras",
              "imagen":"https://raw.githubusercontent.com/jarredd/platillo/master/panbazo.jpg"
             
@@ -29,7 +29,7 @@
             "id_pueblo":"4",
              "nombre": "Dulce de chayote",
             "descripcion": "Coatepec  es una ciudad localizada en el centro estado de Veracruz, México. A ocho kilómetros de Xalapa,se encuentra Coatepec, que por décadas fue por excelencia la ciudad del café en el país. Con su antiguo casco urbano, en alguna medida aún conservado, muestra la gran bonanza que vivió la población a partir de los exportaciones del producto en los principios del siglo XX, época en la que los precios del café estaban al alza.",
-             "imagen":"https://raw.githubusercontent.com/jarredd/platillo/master/chayote.jpg" 
+             "imagen":"https://raw.githubusercontent.com/jarredd/platillo/master/Chayote.jpg" 
             
             
 }
